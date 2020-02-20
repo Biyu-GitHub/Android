@@ -1,0 +1,2 @@
+include ':04-viewpager', ':05-tab', ':06-recyclerview', ':06-recyclerview2', ':02-fragment', ':00-basicui', ':07-handler', ':08-storge'
+rootProject.name='imooc'
